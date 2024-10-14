@@ -1,7 +1,8 @@
 # SO-DB-Proyecto-Final
 Este es el proyecto final combinado de Sistemas Operativos 2 y Bases de Datos 1.
 
-Institución: Escuela Técnica Superior Las Piedras, 2BE
+Institución: Escuela Técnica Superior Las Piedras, 2BE.
+
 Integrantes: Lucas Camejo, Iván Morales, Facundo López.
 
 El sistema consiste de un menú con la capacidad de crear bases de datos y operar con ellas a trabés de comandos MySQL, manipulando un sistema MariaDB (Debido a la inexistencia de un cliente MySQL en Linux).
